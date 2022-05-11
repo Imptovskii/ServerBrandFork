@@ -2,7 +2,7 @@
 
 Кастомный Server Brand, немного перебрал оригинальный плагин и обновил библиотеки чтобы он мог работать с новым BungeeCord/Waterfall и Spigot/PaperMC
 
-![](https://i.imgur.com/YIpk7nK.png)
+![изображение](https://user-images.githubusercontent.com/82046704/167948394-4d6ff402-94f8-43f6-a093-568f1d040c52.png)
 
 ## Как использовать
 ### Config
