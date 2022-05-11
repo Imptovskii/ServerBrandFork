@@ -1,15 +1,10 @@
-# ServerBrand
+# ServerBrandFork
 
-Просто пересборка под новое API не более.
-
-In minecraft 1.13, the server brand is now shown in the client within the debug menu (as well as in crash reports as was from older versions).
-This can be useful for server owners to display custom data (such as server ids, game release versions) so that this data can be captured in screenshots + crash reports.
-
-This plugin provides a safe way to set the brand displayed to the user.
+Кастомный Server Brand, немного перебрал оригинальный плагин и обновил библиотеки чтобы он мог работать с новым BungeeCord/Waterfall и Spigot/PaperMC
 
 ![](https://i.imgur.com/YIpk7nK.png)
 
-## How to use
+## Как использовать
 ### Config
 ```yaml
 # The string to display in the debug menu.
