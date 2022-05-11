@@ -1,4 +1,4 @@
-# /new places/ ServerBrandFork
+# /new places/ ServerBrand
 
 Кастомный Server Brand, немного перебрал оригинальный плагин и обновил библиотеки чтобы он мог работать с новым BungeeCord/Waterfall и Spigot/PaperMC
 
