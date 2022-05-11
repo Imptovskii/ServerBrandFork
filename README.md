@@ -1,5 +1,7 @@
 # ServerBrand
 
+Просто пересборка под новое API не более.
+
 In minecraft 1.13, the server brand is now shown in the client within the debug menu (as well as in crash reports as was from older versions).
 This can be useful for server owners to display custom data (such as server ids, game release versions) so that this data can be captured in screenshots + crash reports.
 
