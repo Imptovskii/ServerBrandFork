@@ -1,0 +1,4 @@
+name: ServerBrand
+version: ${project.version}
+author: "theminecoder, ConnorLinfoot, fork by /new places/"
+main: dev.imptovskii.minecraft.serverbrand.ServerBrandBungeeCord

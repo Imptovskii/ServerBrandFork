@@ -1,0 +1,5 @@
+name: ServerBrand
+version: ${project.version}
+main: dev.imptovskii.minecraft.serverbrand.ServerBrandSpigot
+commands:
+  brand: {}
